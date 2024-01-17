@@ -1,5 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Vinith N</h1>
+<h1 align="center">Profile</h1>
+<h2 align="center">Hi there 👋, I'm Vinith N</h2>
 <h3 align="center">A passionate web3 developer from India . studying in Bangalore institute of technology .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1vinith&label=Profile%20views&color=0e75b6&style=flat" alt="1vinith" /> </p>
