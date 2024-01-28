@@ -7,10 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vinithn10" target="blank"><img src="https://img.shields.io/twitter/follow/vinithn10?logo=twitter&style=for-the-badge" alt="vinithn10" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5622AQErlQlcPler2g/feedshare-shrink_2048_1536/0/1587628396592?e=2147483647&v=beta&t=6gbzpglnet87uHEUlsH1GBq6TM1FaNsD8xcWeKZmWa0">
--  🌱 I’m currently learning **HTML and CSS**
 
 -  📫 How to reach me **vinithn1189@gmail.com**
-
+-  🌱 I’m currently learning **HTML and CSS**
 -  ⚡ Fun fact **I code without my fingers**
 
 <h3 align="left">## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
