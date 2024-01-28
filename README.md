@@ -13,7 +13,8 @@
 
 -  ⚡ Fun fact **I code without my fingers**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+</h3>
 <p align="left">
 <a href="https://twitter.com/vinithn10" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinithn10" height="30" width="40" /></a>
@@ -43,6 +44,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=1vinith&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1vinith&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1vinith&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<h2> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+ Show some ❤️ by starring some of the repositories ...! </h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
