@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1vinith&label=Profile%20views&color=0e75b6&style=flat" alt="1vinith" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1vinith" alt="1vinith" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vinithn10" target="blank"><img src="https://img.shields.io/twitter/follow/vinithn10?logo=twitter&style=for-the-badge" alt="vinithn10" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5622AQErlQlcPler2g/feedshare-shrink_2048_1536/0/1587628396592?e=2147483647&v=beta&t=6gbzpglnet87uHEUlsH1GBq6TM1FaNsD8xcWeKZmWa0">
 -  🌱 I’m currently learning **HTML and CSS**
@@ -32,3 +30,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=1vinith&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1vinith&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1vinith&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=1vinith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
