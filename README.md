@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://assets.sutori.com/user-uploads/image/d5933785-f508-4eca-b3a8-d1734d17f89c/acd10a0a925fc6bb503f000a1d477c59.gif)
 <h1 align="center">Profile</h1>
 <h2 align="center">Hi there 👋, I'm Vinith N</h2>
 <h3 align="center">A passionate web3 developer from India . studying in Bangalore institute of technology .</h3>
@@ -37,3 +37,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=1vinith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
